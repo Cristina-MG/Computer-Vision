@@ -12,6 +12,8 @@ This repository consists of the following files:
 	File containing a sample of the images used to train the detection model and their respective coordinates with the labels.
 - custom_data.yaml
 	File where the name of each label is collected.
+- best.pt  
+	best weights file
 - simpson-intro.mp4
 	verification video
 - simpsons-intro-labels.mp4
