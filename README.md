@@ -1,18 +1,18 @@
 # Computer-Vision
 
-Este proyecto ha consistido en la detección de la cara de Bart Simpson. Para ello se ha utilizado [Yolov5](https://github.com/ultralytics/yolov5) y [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index).
+This project consisted of detecting Bart Simpson's face. For this purpose, [Yolov5](https://github.com/ultralytics/yolov5) and [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) have been used..
 
-Este repositorio consta de los siguientes archivos:
+This repository consists of the following files:
 
 - YOLOv5_B.Simpson.ipynb 
-	Notebook donde se recoge el código en python
+	Notebook where the python code is collected
 - train_data.zip
-	Archivo donde se recogen una muestra de las imágenes que se han utilizado para entrenar el modelo de detección y sus respectivas coordenadas con las etiquetas.
+	File containing a sample of the images used to train the detection model and their respective coordinates with the labels.
 - custom_data.yaml
-	archivo donde se recoge el nombre de cada etiqueta
+	File where the name of each label is collected.
 - simpson-intro.mp4
-	video de verificación
+	verification video
 - simpsons-intro-labels.mp4
-	video de verificación donde se muestra la detección de los objetos junto a su etiqueta y probabilidad.
+	verification video showing the detection of the objects together with their label and probability.
 
-[imagen](B.png)
+<img src="B.png">
