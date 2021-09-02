@@ -14,10 +14,10 @@ File containing a sample of the images used to train the detection model and the
 File where the name of each label is collected.
 - best.pt  
 	best weights file
-- simpson-intro.mp4
-	verification video
-- simpsons-intro-labels.mp4
-	verification video showing the detection of the objects together with their label and probability.
+- simpson-intro.mp4  
+verification video
+- simpsons-intro-labels.mp4  
+verification video showing the detection of the objects together with their label and probability.
 
 
 <img src="B.png">
