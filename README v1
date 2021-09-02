@@ -4,7 +4,7 @@ This project consisted of detecting Bart Simpson's face. For this purpose, [Yolo
 
 This repository consists of the following files:
 
-- YOLOv5_B.Simpson.ipynb 
+- YOLOv5_B.Simpson.ipynb /t/
 	Notebook where the python code is collected
 - train_data.zip
 	File containing a sample of the images used to train the detection model and their respective coordinates with the labels.
